@@ -17,3 +17,12 @@ By default 10 posts will be shown. When user scrolls to the last post, a load mo
 User profile page - User can add/edit name, email, image, bio.
 
 Navigation menu - to contain links to user profile page, wall page and a logout button, “Hello {username}” will also be displayed.
+
+Uses :
+<ul>
+<li><strong>PHP</strong></li>
+<li><strong>MYSQL</strong></li>
+<li><strong>JQuery</strong></li>
+<li><strong>HTML</strong></li>
+<li><strong>CSS</strong></li>
+</ul>
