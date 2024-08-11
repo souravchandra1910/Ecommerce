@@ -1,0 +1,21 @@
+<?php
+if(isset($_GET['userExists'])){
+  ?>
+  <p><?=$_GET['userExists']?></p>
+  <?php
+}
+elseif(isset($_GET['login_error'])){
+  ?>
+  <p><?=$_GET['login_error']?></p>
+  <?php
+}
+elseif(isset($_GET['register_success'])){
+  ?>
+  <p><?=$_GET['register_success']?></p>
+  <?php
+}
+elseif(isset($_GET['message'])){
+  ?>
+  <p><?=$_GET['message']?></p>
+  <?php
+}
